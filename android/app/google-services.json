@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287113966962",
+    "project_id": "myvideo-faba1",
+    "storage_bucket": "myvideo-faba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287113966962:android:54e69cc485e264660619eb",
+        "android_client_info": {
+          "package_name": "com.uninterrupted.app.no_interrupt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287113966962-kh7l5deafc7bk9p1nm1vgfuac4jqamr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg7inhl4sHTFZ8n-kASY1mo1983SJkzMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287113966962-kh7l5deafc7bk9p1nm1vgfuac4jqamr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

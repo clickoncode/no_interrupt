@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>287113966962-578aq9iboq5gpoef3gsvlqmlvtib2unt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.287113966962-578aq9iboq5gpoef3gsvlqmlvtib2unt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBaRgnA7EY7saVa6UzRDXCjVKU8bhw6o3c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>287113966962</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.uninterrupted.app.noInterrupt</string>
+	<key>PROJECT_ID</key>
+	<string>myvideo-faba1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myvideo-faba1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:287113966962:ios:d6cf9b638f6e789e0619eb</string>
+</dict>
+</plist>
